@@ -19,7 +19,7 @@ For some time now, Karamoja has been the most food-insecure region of Uganda. Th
 - What is the potential productivity, actual and missed productivity in the region?
 
 # Link
-This is the URL to the tool [https://public.tableau.com/app/profile/patrick.musyoka/viz/KaramojaRegion-VisualizationTool/SummaryTable]
+This is the URL to the tool [https://public.tableau.com/app/profile/eric.cheruiyot/viz/EricCheruiyotDSPTKaramojaFoodSecurityMonitoringToolProject/DashboardKaramojaUgandaFoodSecurityMonitoringTool?publish=yes]
 
 # Color Codes
 If difficulty is encountered in differentiating the colors used in the visualization, kindly refer from [https://colorbrewer2.org/#type=sequential&scheme=Blues&n=3]. 
@@ -31,4 +31,4 @@ Various Tableau visualization techniques
 The visualization of results provided in this study will provide more reliable and reusable information by other NGOs and government agencies in making decisions on resource utilization and an understanding of the overall state of Karamoja region on maize and sorghum productivity. Any other similar data science project can adopt the analysis and visualization. 
 
 # Contributor
-Patrick-Munyao
+Eric Cheruiyot
